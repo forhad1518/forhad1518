@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhad1518&label=Profile%20views&color=0e75b6&style=flat" alt="forhad1518" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+<p align="center">ahforhad20@gmail.com</p>
 <p align="left">
 </p>
 
