@@ -1,11 +1,4 @@
 <div>
-
-    <br />
-    <img src="https://stackmasteryreadme.netlify.app/aboutme.svg"/>
-      <br />
-      <br />
-      <br />
-      <br />
   </div>
    <img style="background: #0F172A;" src="https://stackmasteryreadme.netlify.app/marueetitle.svg" alt="Title" />
    <br />
