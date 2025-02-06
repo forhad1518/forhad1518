@@ -1,12 +1,5 @@
 <div>
-   <img style="background: #0F172A;"  src="https://stackmasteryreadme.netlify.app/banner.svg" alt="Banner" />
-  <div>
-   <br />
-   <br />
-   <br />
-   <br />
-    <img style="background: #0F172A;" src="https://stackmasteryreadme.netlify.app/abouttitle.svg" alt="Title" />
-    <br />
+
     <br />
     <img src="https://stackmasteryreadme.netlify.app/aboutme.svg"/>
       <br />
