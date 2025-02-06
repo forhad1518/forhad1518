@@ -1,6 +1,6 @@
 <div>
   <div>
-    <img src="https://ibb.co.com/qFs0CZvR"/>
+    <img src="https://i.ibb.co.com/93TwhM7q/MERN.png" alt="MERN" border="0">
   </div>
   </div>
    <img style="background: #0F172A;" src="https://stackmasteryreadme.netlify.app/marueetitle.svg" alt="Title" />
