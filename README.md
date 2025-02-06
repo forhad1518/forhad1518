@@ -27,7 +27,7 @@
    <br />
    <br />
    <div>
-      <a href="https://web.facebook.com/forhad.1518/)">
+      <a href="https://web.facebook.com/forhad.1518/">
          <img width="200" src="https://stackmasteryreadme.netlify.app/fb.svg" />
       </a>
       <a href="https://www.linkedin.com/in/forhad-hossan-290752181/">
