@@ -27,13 +27,10 @@
    <br />
    <br />
    <div>
-      <a href="https://www.facebook.com/stackmastery">
+      <a href="https://web.facebook.com/forhad.1518/)">
          <img width="200" src="https://stackmasteryreadme.netlify.app/fb.svg" />
       </a>
-      <a href="to:labib.developers@gmail.com">
-         <img width="105" src="https://stackmasteryreadme.netlify.app/email.svg" />
-      </a>
-      <a href="https://www.linkedin.com/in/md-juanid-islam-labib-446a08342/">
+      <a href="https://www.linkedin.com/in/forhad-hossan-290752181/">
          <img width="180" src="https://stackmasteryreadme.netlify.app/linkedin.svg" />
       </a>
    </div>
